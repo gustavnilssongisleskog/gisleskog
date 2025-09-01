@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scala | Hugo Academic CV Theme</title>
+    <link>https://example.com/tags/scala/</link>
+      <atom:link href="https://example.com/tags/scala/index.xml" rel="self" type="application/rss+xml" />
+    <description>Scala</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <title>Scala</title>
+      <link>https://example.com/tags/scala/</link>
+    </image>
+    
+    <item>
+      <title>Mandelbrot Viewer</title>
+      <link>https://example.com/my_projects/mandelbrot/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/my_projects/mandelbrot/</guid>
+      <description>&lt;p&gt;Mandelbrot and Julia set viewer made in Scala. Enjoy their stunning beauty while listening to epic music that is also integrated in the GUI!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Vision | Hugo Academic CV Theme</title>
+    <link>https://example.com/tags/computer-vision/</link>
+      <atom:link href="https://example.com/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computer Vision</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <title>Computer Vision</title>
+      <link>https://example.com/tags/computer-vision/</link>
+    </image>
+    
+    <item>
+      <title>Photometric Stereo</title>
+      <link>https://example.com/my_projects/photometricstereo/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/my_projects/photometricstereo/</guid>
+      <description>&lt;p&gt;Photometric stereo involves estimating 3D structure given several images where only lighting conditions vary. Done for a project course at Lund University, based on a research paper.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paper Transformations</title>
+      <link>https://example.com/my_projects/papertransformations/</link>
+      <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/my_projects/papertransformations/</guid>
+      <description>&lt;p&gt;Given an image including an A4 paper, performs perspective correction to show what the paper looks like from directly above.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

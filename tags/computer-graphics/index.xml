@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Graphics | Hugo Academic CV Theme</title>
+    <link>https://example.com/tags/computer-graphics/</link>
+      <atom:link href="https://example.com/tags/computer-graphics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computer Graphics</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <title>Computer Graphics</title>
+      <link>https://example.com/tags/computer-graphics/</link>
+    </image>
+    
+    <item>
+      <title>Fluid Simulation with Ray Marching</title>
+      <link>https://example.com/my_projects/fluidsimulation/</link>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/my_projects/fluidsimulation/</guid>
+      <description>&lt;p&gt;Fluid simulation based on smoothed-particle hydrodynamics, efficiently computed using OpenGL compute shaders.&lt;/p&gt;
+&lt;p&gt;Selected as best project in High Performance Computer Graphics course in Lund.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
