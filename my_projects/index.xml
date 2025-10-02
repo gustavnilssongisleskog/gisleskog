@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My_projects | Hugo Academic CV Theme</title>
+    <title>My_projects | Gustav Nilsson Gisleskog</title>
     <link>https://example.com/my_projects/</link>
       <atom:link href="https://example.com/my_projects/index.xml" rel="self" type="application/rss+xml" />
     <description>My_projects</description>
